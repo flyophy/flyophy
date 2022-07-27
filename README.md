@@ -21,6 +21,7 @@
 ![Debian](https://img.shields.io/badge/Debian-white?style=flat-square&logo=debian&logoColor=A80030)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=flat-square&logo=ubuntu&logoColor=DE4714)
 
 #### Programming Language
 
