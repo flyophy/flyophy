@@ -3,6 +3,13 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/flyophy/)](https://www.linkedin.com/in/flyophy/)&nbsp;
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=fff&link=https://medium.com/@flyophy)](https://medium.com/@flyophy)&nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=flyophy)
+
+I have 3 years of embedded software development experience.
+I have almost 3 years of bug bounty experience.
+I have been developing Flutter with Dart language for about 1 year.
+I am actively developing full stack mobile and web projects with AWS and Google Cloud
+
+
 - 🔭 I’m currently working on [Itel Technology](https://www.iteltechnology.com)
 - 🌱 I’m currently learning **AWS, Docker, Julia**
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/flyophy/
@@ -54,7 +61,7 @@
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FFF?style=flat-square&logo=google-analytics&logoColor=FCC624)
 ![Google My Business](https://img.shields.io/badge/Google%20My%20Business-FFF?style=flat-square&logo=google-my-business&logoColor=449cf4)
 ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-FFF?style=flat-square&logo=google-search-console&logoColor=72808C)
-![Google Merchant Center](https://img.shields.io/badge/Merchant%20Center-0078D6?style=flat-square&logo=merchant-center&logoColor=white)
+![Google Merchant Center](https://img.shields.io/badge/Google%20Merchant%20Center-0078D6?style=flat-square&logo=merchant-center&logoColor=white)
 
 #### Back-End
 
