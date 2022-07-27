@@ -4,12 +4,10 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=fff&link=https://medium.com/@flyophy)](https://medium.com/@flyophy)&nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=flyophy)
 
-I have 3 years of embedded software development experience.
-I have almost 3 years of bug bounty experience.
-I have been developing Flutter with Dart language for about 1 year.
-I am actively developing full stack mobile and web projects with AWS and Google Cloud
-
-
+- I have 3 years of embedded software development experience.
+- I have almost 3 years of bug bounty experience.
+- I have been developing Flutter with Dart language for about 1 year.
+- I am actively developing full stack mobile and web projects with AWS and Google Cloud
 - 🔭 I’m currently working on [Itel Technology](https://www.iteltechnology.com)
 - 🌱 I’m currently learning **AWS, Docker, Julia**
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/flyophy/
