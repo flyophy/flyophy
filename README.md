@@ -32,6 +32,12 @@
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=fff)
 
+#### Data Management Services
+
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FFF?style=flat-square&logo=google-analytics&logoColor=FCC624)
+![Google Merchant Center](https://img.shields.io/badge/Merchant%20Center-0078D6?style=flat-square&logo=merchant-center&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-FFF?style=flat-square&logo=google-search-console&logoColor=72808C)
+
 #### Back-End
 
 ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c%20sharp&logoColor=fff)
