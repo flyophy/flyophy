@@ -5,7 +5,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=flyophy)
 - 🔭 I’m currently working on [Itel Technology](https://www.iteltechnology.com)
 - 🌱 I’m currently learning **AWS, Docker, Julia**
-- 👯 I’m looking to collaborate on 
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/flyophy/
 - 📫 How to reach me: emremetin@iteltechnology.com
 
@@ -33,16 +32,22 @@
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-white?style=flat-square&logo=android-studio&logoColor=449cf4)
 ![Xcode](http://img.shields.io/badge/-Xcode-white?style=flat-square&logo=xcode&logoColor=449cf4)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
 
+![FileZilla](https://img.shields.io/badge/FileZilla-FFF?style=flat-square&logo=filezilla&logoColor=A20000)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff)
 ![JetBrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat-square&logo=Jetbrains&logoColor=fff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=fff)
 
 #### Cloud
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-white?style=flat-square&logo=google-cloud&logoColor=449cf4)
-![Amazon Web Server](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=fff)
+![Google Cloud Server](https://img.shields.io/badge/Google%20Cloud%20Server-white?style=flat-square&logo=google-cloud&logoColor=449cf4)
+![Amazon Web Server](https://img.shields.io/badge/Amazon%20Web%20Server-232F3E?style=flat-square&logo=amazon-aws&logoColor=fff)
+
+#### Cloud Services
+
+![Firebase](https://img.shields.io/badge/Firebase-FFF?style=flat-square&logo=firebase&logoColor=FCC624)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FFF?style=flat-square&logo=amazon-ec2&logoColor=F7981F)
 
 #### Data Management Services
 
@@ -60,6 +65,7 @@
 #### Front-End
 
 ![Flutter](https://img.shields.io/badge/Flutter-1572B6?style=flat-square&logo=flutter&logoColor=fff)
+![React Native](https://img.shields.io/badge/React%20Native-fff?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
@@ -73,6 +79,9 @@
 
 #### Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![DevExpress](https://img.shields.io/badge/DevExpress-white?style=flat-square&logo=devexpress&logoColor=F88D1A)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flyophy&show_icons=true&theme=dracula" alt="Emre's github stats" width="420"/>&nbsp;
