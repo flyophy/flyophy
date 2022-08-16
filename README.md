@@ -8,10 +8,8 @@
 - I have almost 3 years of bug bounty experience.
 - I have been developing Flutter with Dart language for about 1 year.
 - I am actively developing full stack mobile and web projects with AWS and Google Cloud
-//- 🔭 I’m currently working on [Itel Technology](https://www.iteltechnology.com)
 - 🌱 I’m currently learning **AWS, Docker, Julia**
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/flyophy/
-//- 📫 How to reach me: emremetin@iteltechnology.com
 
 ### Working with...
 
