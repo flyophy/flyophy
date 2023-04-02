@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=flyophy)
 
 - I have 3 years of embedded software development experience.
-- I have almost 3 years of bug bounty experience.
+- I have almost 2 years of bug bounty experience.
 - I have been developing Flutter with Dart language for about 1 year.
 - I am actively developing full stack mobile and web projects with AWS and Google Cloud
 - 🌱 I’m currently learning **AWS, Docker, Julia**
