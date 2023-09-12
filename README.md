@@ -1,6 +1,6 @@
 ### Hi there, I'm Emre 👋
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/flyophy/)](https://www.linkedin.com/in/flyophy/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/flyophy/)](https://www.linkedin.com/in/emtn/)&nbsp;
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=fff&link=https://medium.com/@flyophy)](https://medium.com/@flyophy)&nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=flyophy)
 
