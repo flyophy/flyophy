@@ -9,7 +9,7 @@
 - I have been developing Flutter with Dart language for about 1 year.
 - I am actively developing full stack mobile and web projects with AWS and Google Cloud
 - 🌱 I’m currently learning **AWS, Docker, Julia**
-- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/flyophy/
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/emtn/
 
 ### Working with...
 
